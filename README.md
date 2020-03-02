@@ -6,14 +6,14 @@ A rat runs on an island and tries to eat as much as possible. The island is subd
 The goal is to code an agent to solve this task that will learn by trial and error.
 
 ### A random game
-![](test1.gif)
+![](gifs/test1.gif)
 
 ### Dummy Fully Connected Agent
-![](fc_test1.gif)
+![](gifs/fc_test1.gif)
 
 
 ### Dummy Convolutional Agent
-![](cnn_test1.gif)
+![](gifs/cnn_test1.gif)
 
 ### Fine-tuned Convolutional Agent with incentives for exploration
-![](cnn_test_explore1.gif)
+![](cnn_test_explore2.gif)
