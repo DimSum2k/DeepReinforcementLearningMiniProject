@@ -8,6 +8,9 @@ The goal is to code an agent to solve this task that will learn by trial and err
 ### A random game
 ![](test1.gif)
 
+### Dummy Fully Connected Agent
+![](fc_test1.gif)
+
 
 ### Dummy Convolutional Agent
 ![](cnn_test1.gif)
