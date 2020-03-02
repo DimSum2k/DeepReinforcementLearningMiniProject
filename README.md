@@ -7,3 +7,7 @@ The goal is to code an agent to solve this task that will learn by trial and err
 
 ### A random game
 ![](test1.gif)
+
+
+### Dummy Convolutional Agent
+![](cnntest1.gif)
