@@ -10,4 +10,4 @@ The goal is to code an agent to solve this task that will learn by trial and err
 
 
 ### Dummy Convolutional Agent
-![](cnntest1.gif)
+![](cnn_test1.gif)
