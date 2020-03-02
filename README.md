@@ -16,4 +16,4 @@ The goal is to code an agent to solve this task that will learn by trial and err
 ![](gifs/cnn_test1.gif)
 
 ### Fine-tuned Convolutional Agent with incentives for exploration
-![](cnn_test_explore2.gif)
+![](gifs/cnn_test_explore2.gif)
