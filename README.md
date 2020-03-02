@@ -6,4 +6,4 @@ A rat runs on an island and tries to eat as much as possible. The island is subd
 The goal is to code an agent to solve this task that will learn by trial and error.
 
 ### A random game
-![](test1gif)
+![](test1.gif)
